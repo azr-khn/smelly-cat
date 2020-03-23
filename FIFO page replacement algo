@@ -4,7 +4,7 @@ class FIFO
     public static void main(String args[])
     {
     	Scanner sc=new Scanner(System.in);
-	System.out.print("Enter number of Frames: ");
+	System.out.print("Enter number of frames: ");
 	int n=sc.nextInt();
 	int p[]=new int [n];
         System.out.print("Enter length of reference string: ");
